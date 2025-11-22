@@ -1,3 +1,10 @@
+#NAME : MEHAK
+#ROLL NO. : 2501410004
+#BTECH CSE CYBER SECURITY
+
+#DATE : 22/11/25
+
+#DEINING DETAILS AND STATUS OF BOOKS 
 class Book:
     def __init__(self, title, author, isbn, status="available"):
         self.title = title
@@ -21,6 +28,7 @@ class Book:
         return False
 
 
+# SAVE DEATILS
 def save_details(books, filename="books.txt"):
     try:
         with open(filename, "w", encoding="utf-8") as f:
@@ -31,6 +39,7 @@ def save_details(books, filename="books.txt"):
         print(f"Error saving file {filename}: {e}")
 
 
+# DEFINING LOAD BOOKS
 def load_books(filename="books.txt"):
     books = []
     try:
@@ -51,7 +60,7 @@ def load_books(filename="books.txt"):
         print(f"Error loading file {filename}: {e}")
     return books
 
-
+# MAUN FUNCTIION 
 def main():
     books = load_books()
 
