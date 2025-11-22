@@ -9,8 +9,8 @@ This is a simple command-line Python program to manage a library's book inventor
 <img width="545" height="488" alt="Screenshot 2025-11-22 at 4 15 40 PM" src="https://github.com/user-attachments/assets/bea851c5-65e8-4df2-8fca-e4bb8ec0cf39" />
 
 #the update in books.txt file as I issue or return a book respectively....
-<img width="524" height="036" alt="Screenshot 2025-11-22 at 4 02 23 PM" src="https://github.com/user-attachments/assets/e9dafbe9-32dd-4c81-a195-ef5bd920c4cf" />
-<img width="554" height="078" alt="Screenshot 2025-11-22 at 4 14 35 PM" src="https://github.com/user-attachments/assets/6b8d84b4-4915-4a79-84dd-438e33ee5968" />
+<img width="624" height="136" alt="Screenshot 2025-11-22 at 4 02 23 PM" src="https://github.com/user-attachments/assets/e9dafbe9-32dd-4c81-a195-ef5bd920c4cf" />
+<img width="571" height="165" alt="Screenshot 2025-11-22 at 4 07 47 PM" src="https://github.com/user-attachments/assets/6d965699-9494-473e-a563-150a2305cef5" />
 
 
 
