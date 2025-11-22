@@ -39,7 +39,7 @@ def load_books(filename="books.txt"):
                 title, author, isbn, status = line.strip().split("|")
                 books.append(Book(title, author, isbn, status))
     except FileNotFoundError:
-        # File doesn't exist, create 4 initial books, save them
+        
         books = [
             Book("1984", "George Orwell", "9780451524935"),
             Book("To Kill a Mockingbird", "Harper Lee", "9780061120084"),
